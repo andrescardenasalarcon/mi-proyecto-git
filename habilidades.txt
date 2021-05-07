@@ -3,3 +3,6 @@ comandos y habilidades de python
 pandas 
 django
 java
+Oracle
+Nethbeans
+pgAdmin
